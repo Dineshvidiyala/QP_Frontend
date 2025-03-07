@@ -203,7 +203,7 @@ function displayQuestionPaper(questions, paperDetails, allowEdit = true) {
             <br>
             <br>
             <br>
-            <p style="text-align: center;"><strong>*ALL THE BEST*</strong></p>
+            <p style="text-align: center;"><strong>*****ALL THE BEST*****</strong></p>
         </div>
     `;
     document.getElementById('questionPaper').innerHTML = html;
@@ -374,7 +374,7 @@ async function downloadQuestionPaper() {
             <br>
             <br>
             <br>
-            <p style="text-align: center;"><strong>*ALL THE BEST*</strong></p>
+            <p style="text-align: center;"><strong>*****ALL THE BEST******</strong></p>
         </div>
     `;
     hiddenContainer.innerHTML = html;
