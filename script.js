@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://questionpapergeneratorbackend.onrender.com/api';
+const API_BASE_URL = 'https://qp-backend-y759.onrender.com/api';
 
 document.getElementById('excelFile').addEventListener('change', handleFileUpload);
 document.getElementById('generateButton').addEventListener('click', generateQuestionPaper);
